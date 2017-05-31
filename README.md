@@ -9,4 +9,5 @@ https://philaturner.github.io/magento2-data-import/
 <s><li>Map M2 attributes to M1 attributes</li></s>
 <s><li>Build on output to be like full M2 import file</li></s>
 <li>Merge multi-files to create true CSV to import into M2</li>
+<li>Consolidate down to using only one JSON file</li>
 </ol>
